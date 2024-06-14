@@ -44,6 +44,7 @@ class User extends Model
         return self::create($data);
     }
 }
+// © redaelfillali.com
 ```
 In this example, the controller handles the request and delegates the task of user creation to the model. The model encapsulates the logic for creating a user, ensuring that the controller remains lean and the model handles all related business rules.
 
