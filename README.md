@@ -2,8 +2,8 @@
 A collection of best practices for developing Laravel applications
 
 ## Table of contents
-[Keep Models Comprehensive, Controllers Lean](#keep-models-comprehensive-controllers-lean)
-[SOLID Principles in Laravel](#solid-principles-in-laravel)
+- [Keep Models Comprehensive, Controllers Lean](#keep-models-comprehensive-controllers-lean)
+- [SOLID Principles in Laravel](#solid-principles-in-laravel)
 
 
 ### **Keep Models Comprehensive, Controllers Lean**
